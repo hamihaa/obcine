@@ -1,4 +1,4 @@
-# občine
+# občine / Counties of Slovenia
 
 Vizualizacija primerjave odhodkov potrebnih za delovanje občin (leto 2015)
 
