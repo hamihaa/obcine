@@ -4,8 +4,8 @@ Vizualizacija primerjave odhodkov potrebnih za delovanje občin (leto 2015)
 
 # Built with
 
-PHP
 <ul>
+<li>PHP using MVC structure</li>
 <li>Javascript</li>
 <li>Google charts</li>
 <li>Google maps</li>
