@@ -9,11 +9,11 @@
 
 class DBInit {
     private static $host = "localhost";
-    private static $user = "id167260_obcine";
-    private static $password = "obcine123";
-    private static $schema = "id167260_isvu";
+    private static $user = "";
+    private static $password = "";
+    private static $schema = "";
     private static $instance = null;
-    private static $api = "AIzaSyAxkqy69pNnN-zuRMhSMmCih8oKpf8YXcA";
+    private static $api = "";
     private function __construct() {
 
     }
